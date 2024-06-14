@@ -1,0 +1,37 @@
+
+{
+    "warehouse": {
+        "items": [
+            {
+                "item_id": "A123",
+                "name": "Laptop",
+                "quantity": 50,
+                "rack_number": "R1"
+            },
+            {
+                "item_id": "B456",
+                "name": "Monitor",
+                "quantity": 30,
+                "rack_number": "R2"
+            },
+            {
+                "item_id": "C789",
+                "name": "Keyboard",
+                "quantity": 100,
+                "rack_number": "R3"
+            },
+            {
+                "item_id": "D012",
+                "name": "Mouse",
+                "quantity": 200,
+                "rack_number": "R4"
+            },
+            {
+                "item_id": "E345",
+                "name": "Printer",
+                "quantity": 20,
+                "rack_number": "R5"
+            }
+        ]
+    }
+}
