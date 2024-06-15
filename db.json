@@ -31,6 +31,12 @@
                 "name": "Printer",
                 "quantity": 20,
                 "rack_number": "R5"
+            },
+            {
+                "item_id": "J6P9",
+                "name": "SSD",
+                "quantity": 15,
+                "rack_number": "R6"
             }
         ]
     }
