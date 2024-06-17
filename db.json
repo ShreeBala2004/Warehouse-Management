@@ -37,6 +37,12 @@
                 "name": "SSD",
                 "quantity": 15,
                 "rack_number": "R6"
+            },
+            {
+                "item_id": "J6P9",
+                "name": "SSD",
+                "quantity": 15,
+                "rack_number": "R7"
             }
         ]
     }
